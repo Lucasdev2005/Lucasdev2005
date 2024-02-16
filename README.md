@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+Moreira." alt="Typing SVG" /></a>
 <div align="center">
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=LucasDev2005&show_icons=true&color#fffff" alt="GitHub Stats">
-    <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev2005&hide=javascript,html" alt="Top Languages">
 </div>
 
 <div style="display: inline_block" align="center"><br>
